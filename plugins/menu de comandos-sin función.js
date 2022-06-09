@@ -4,6 +4,7 @@
 //SI VAS A MODIFICAR TODO Y HACER PASAR COMO SI FUERA TU BOT (CREADO POR TI) SOLO TE PIDO QUE SI ESTA EN TUS POSIBILIDADES DONES UN POCO
 
 //BASE UTILIZADA - GAMES-WABOT
+/*
 let PhoneNumber = require('awesome-phonenumber')
 let levelling = require('../lib/levelling')
 
@@ -360,3 +361,4 @@ handler.fail = null
 
 module.exports = handler
 
+*/
